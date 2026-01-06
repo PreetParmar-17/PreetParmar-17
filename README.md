@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PreetParmar-17.PreetParmar-17&"  />
 </div>
 
@@ -70,10 +70,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PreetParmar-17/PreetParmar-17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PreetParmar-17/PreetParmar-17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PreetParmar-17/PreetParmar-17/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/PreetParmar-17/PreetParmar-17/output/snake.svg" alt="Snake animation" />
 
 ###
