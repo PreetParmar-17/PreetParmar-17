@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Preet<br><br>🔭 I'm currently working on my Personal Project<br>🌱 I'm currently learning AI/ML <br>👯 Open to collaborating on real-world web & SaaS projects<br>💬 Ask me about React, Firebase, postgreSQL<br>⚡ Fun fact I believe consistency beats talent every single time 🚀<br><br>📫 How to reach me:<br>📧 Email: preetp0017@gmail.com<br><br>💼 LinkedIn: linkedin.com/in/preet-parmar0017
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetparmar-17&label=Profile%20views&color=0e75b6&style=flat" alt="preetparmar-17" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ktwMf9kMRy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preet._.0503/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-parmar0017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetp0017@gmail.com) 
